@@ -16,6 +16,7 @@ Note: Variable name for structure ‘student’ should be s1.
 #include<string>
 using namespace std;
 */
+
 struct student
 {
    string name;
